@@ -1,0 +1,8 @@
+Git flow 
+
+git init
+git status
+git add (filename with format) or git add .
+git commit -m "Commit name"
+git branch -m main (this will change the default master to main branch)
+git push origin main
